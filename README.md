@@ -22,11 +22,8 @@ This application allows you to quickly **enable**, **disable**, or **check the s
 
 ## Screenshots
 
-| Service Enabled | Service Disabled |
-|:----------------:|:----------------:|
 | ![Enabled Screenshot](/nvcontainer1.png) | ![Disabled Screenshot](/nvcontainer2.png) |
 
-> 📸 You can find example screenshots inside the `screenshots` folder.
 
 ## Requirements
 - Windows 10, Windows 11, or later
