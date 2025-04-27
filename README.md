@@ -22,7 +22,7 @@ This application allows you to quickly **enable**, **disable**, or **check the s
 
 ## Screenshots
 
-(/nvcontainer1.png) (/nvcontainer2.png)
+ ![Enabled Screenshot](nvcontainer1.png)  ![Disabled Screenshot](nvcontainer2.png) 
 
 
 ## Requirements
@@ -36,5 +36,8 @@ This application allows you to quickly **enable**, **disable**, or **check the s
 ## License
 This project is licensed under the MIT License.  
 Feel free to use, modify, and distribute it.
+
+## Credits
+This program was fully written and designed with the assistance of **ChatGPT**, an AI developed by OpenAI.
 
 ---
