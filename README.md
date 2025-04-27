@@ -38,6 +38,6 @@ This project is licensed under the MIT License.
 Feel free to use, modify, and distribute it.
 
 ## Credits
-This program was fully written and designed with the assistance of **ChatGPT**, an AI developed by OpenAI.
+This program was fully written and designed with the assistance of **ChatGPT** and **Google Gemini**
 
 ---
