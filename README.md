@@ -12,13 +12,21 @@ This application allows you to quickly **enable**, **disable**, or **check the s
 - 🛡️ **Requires Administrator privileges** to change service settings
 
 ## How to Use
-1. Download the `nvcontainer_gui.exe` file.
+1. Download the `nvcontainer_gui_stylish.exe` file.
 2. **Run as Administrator** (right-click ➔ "Run as administrator").
 3. Manage the NVIDIA service easily using the buttons provided.
 
 > ⚡ The current service status is shown dynamically and color-coded:
 > - **Green** for Running
 > - **Red** for Stopped
+
+## Screenshots
+
+| Service Enabled | Service Disabled |
+|:----------------:|:----------------:|
+| ![Enabled Screenshot](/nvcontainer1.png) | ![Disabled Screenshot](/nvcontainer2.png) |
+
+> 📸 You can find example screenshots inside the `screenshots` folder.
 
 ## Requirements
 - Windows 10, Windows 11, or later
@@ -33,4 +41,3 @@ This project is licensed under the MIT License.
 Feel free to use, modify, and distribute it.
 
 ---
-
