@@ -12,7 +12,7 @@ This application allows you to quickly **enable**, **disable**, or **check the s
 - 🛡️ **Requires Administrator privileges** to change service settings
 
 ## How to Use
-1. Download the `nvcontainer_gui_stylish.exe` file.
+1. Download the `nvcontainer_gui.exe` file.
 2. **Run as Administrator** (right-click ➔ "Run as administrator").
 3. Manage the NVIDIA service easily using the buttons provided.
 
