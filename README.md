@@ -22,7 +22,7 @@ This application allows you to quickly **enable**, **disable**, or **check the s
 
 ## Screenshots
 
-| ![Enabled Screenshot](/nvcontainer1.png) | ![Disabled Screenshot](/nvcontainer2.png) |
+(/nvcontainer1.png) (/nvcontainer2.png)
 
 
 ## Requirements
