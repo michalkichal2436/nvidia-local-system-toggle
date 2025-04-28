@@ -32,6 +32,7 @@ This application allows you to quickly **enable**, **disable**, or **check the s
 ## Important Notes
 - Modifying NVIDIA services can affect some NVIDIA features (e.g., Control Panel or GeForce Experience functionality).
 - Use this tool responsibly.
+- **Antiviruses detect this program as a Trojan due to the change of service in the system files!**
 
 ## License
 This project is licensed under the MIT License.  
